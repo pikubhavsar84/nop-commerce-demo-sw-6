@@ -1,0 +1,80 @@
+2023-12-17 19:12:98 INFO  HomePage :48 - Clicking on login link Log in<br>
+2023-12-17 19:12:271 INFO  LoginPage :52 - Getting welcome text Welcome, Please Sign In!<br>
+2023-12-17 19:12:902 INFO  HomePage :48 - Clicking on login link Log in<br>
+2023-12-17 19:12:556 INFO  LoginPage :52 - Getting welcome text Welcome, Please Sign In!<br>
+2023-12-17 19:12:316 INFO  HomePage :48 - Clicking on login link Log in<br>
+2023-12-17 19:12:964 INFO  LoginPage :52 - Getting welcome text Welcome, Please Sign In!<br>
+2023-12-17 21:12:554 INFO  ComputerPage :49 - Clicking on deskTop [[ChromeDriver: chrome on windows (677d9f6cfe782296fa5091931ee579c9)] -> xpath: //h2[@class='title']//a[text()=' Desktops ']]
+2023-12-17 21:12:651 INFO  ComputerPage :49 - Clicking on deskTop [[ChromeDriver: chrome on windows (288416c3723d5e9f193219ad92c08dd5)] -> xpath: //h2[@class='title']//a[text()=' Desktops ']]
+2023-12-17 21:12:848 INFO  ComputerPage :49 - Clicking on deskTop [[ChromeDriver: chrome on windows (316b2d4e05116d52c70ad2dd642ca79b)] -> xpath: //h2[@class='title']//a[text()=' Desktops ']]
+2023-12-17 21:12:49 INFO  ComputerPage :49 - Clicking on deskTop [[ChromeDriver: chrome on windows (5f4fea9c3f671a06198c4f13dc47c15c)] -> xpath: //h2[@class='title']//a[text()=' Desktops ']]
+2023-12-17 21:12:686 INFO  HomePage :48 - Clicking on login link Log in<br>
+2023-12-17 21:12:116 INFO  LoginPage :52 - Getting welcome text Welcome, Please Sign In!<br>
+2023-12-17 21:12:85 INFO  HomePage :48 - Clicking on login link Log in<br>
+2023-12-17 21:12:585 INFO  LoginPage :60 - Enter email invalidemail@example.com to email field <br>
+2023-12-17 21:12:701 INFO  LoginPage :65 - Enter password invalidpassword to password field <br>
+2023-12-17 21:12:13 INFO  LoginPage :70 - Clicking on Login Button <br>
+2023-12-17 21:12:69 INFO  LoginPage :75 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-12-17 21:12:577 INFO  HomePage :48 - Clicking on login link Log in<br>
+2023-12-17 21:12:66 INFO  LoginPage :60 - Enter email validemail@example.com to email field <br>
+2023-12-17 21:12:202 INFO  LoginPage :65 - Enter password validpassword to password field <br>
+2023-12-17 21:12:491 INFO  LoginPage :70 - Clicking on Login Button <br>
+2023-12-17 21:12:668 INFO  HomePage :48 - Clicking on login link Log in<br>
+2023-12-17 21:12:188 INFO  LoginPage :60 - Enter email validemail@example.com to email field <br>
+2023-12-17 21:12:311 INFO  LoginPage :65 - Enter password validpassword to password field <br>
+2023-12-17 21:12:621 INFO  LoginPage :70 - Clicking on Login Button <br>
+2023-12-17 21:12:766 INFO  HomePage :59 - Clicking on register link Register<br>
+2023-12-17 21:12:164 INFO  RegisterPage :79 - Get registerText : Register<br>
+2023-12-17 21:12:648 INFO  HomePage :59 - Clicking on register link Register<br>
+2023-12-17 21:12:998 INFO  RegisterPage :127 - Click on 'REGISTER' button<br>
+2023-12-17 21:12:357 INFO  HomePage :59 - Clicking on register link Register<br>
+2023-12-17 21:12:843 INFO  RegisterPage :95 - Enter Firstname : 'Sam' to firstName field<br>
+2023-12-17 21:12:944 INFO  RegisterPage :100 - Enter Lastname : 'Patel' to lastName field<br>
+2023-12-17 21:12:297 INFO  ComputerPage :49 - Clicking on deskTop [[ChromeDriver: chrome on windows (878e2cc7c34ab852ebdaf3179ac0aedb)] -> xpath: //h2[@class='title']//a[text()=' Desktops ']]
+2023-12-17 21:12:904 INFO  ComputerPage :49 - Clicking on deskTop [[ChromeDriver: chrome on windows (9362e5fe2cea4186beda779e0f054dad)] -> xpath: //h2[@class='title']//a[text()=' Desktops ']]
+2023-12-17 21:12:81 INFO  ComputerPage :49 - Clicking on deskTop [[ChromeDriver: chrome on windows (6581f49fa90df32dfe80ac17654146c0)] -> xpath: //h2[@class='title']//a[text()=' Desktops ']]
+2023-12-17 21:12:774 INFO  ComputerPage :49 - Clicking on deskTop [[ChromeDriver: chrome on windows (4885dde45e4f5085c6e1053d0731061d)] -> xpath: //h2[@class='title']//a[text()=' Desktops ']]
+2023-12-17 21:12:996 INFO  HomePage :48 - Clicking on login link Log in<br>
+2023-12-17 21:12:864 INFO  LoginPage :52 - Getting welcome text Welcome, Please Sign In!<br>
+2023-12-17 21:12:786 INFO  HomePage :48 - Clicking on login link Log in<br>
+2023-12-17 21:12:311 INFO  LoginPage :60 - Enter email invalidemail@example.com to email field <br>
+2023-12-17 21:12:412 INFO  LoginPage :65 - Enter password invalidpassword to password field <br>
+2023-12-17 21:12:708 INFO  LoginPage :70 - Clicking on Login Button <br>
+2023-12-17 21:12:747 INFO  LoginPage :75 - Getting error message : Login was unsuccessful. Please correct the errors and try again.
+No customer account found<br>
+2023-12-17 21:12:128 INFO  HomePage :48 - Clicking on login link Log in<br>
+2023-12-17 21:12:640 INFO  LoginPage :60 - Enter email validemail@example.com to email field <br>
+2023-12-17 21:12:732 INFO  LoginPage :65 - Enter password validpassword to password field <br>
+2023-12-17 21:12:38 INFO  LoginPage :70 - Clicking on Login Button <br>
+2023-12-17 21:12:545 INFO  HomePage :48 - Clicking on login link Log in<br>
+2023-12-17 21:12:111 INFO  LoginPage :60 - Enter email validemail@example.com to email field <br>
+2023-12-17 21:12:237 INFO  LoginPage :65 - Enter password validpassword to password field <br>
+2023-12-17 21:12:552 INFO  LoginPage :70 - Clicking on Login Button <br>
+2023-12-17 21:12:319 INFO  ComputerPage :49 - Clicking on deskTop [[ChromeDriver: chrome on windows (7e5feaf768dd889421723bae25a4ba08)] -> xpath: //h2[@class='title']//a[text()=' Desktops ']]
+2023-12-17 21:12:776 INFO  BuildYourOwnComputerPage :58 - click buildComputer [[ChromeDriver: chrome on windows (7e5feaf768dd889421723bae25a4ba08)] -> css selector: div.master-wrapper-page:nth-child(7) div.master-wrapper-content div.master-column-wrapper div.center-2 div.page.category-page div.page-body div.products-container div.products-wrapper div.product-grid div.item-grid div.item-box:nth-child(1) div.product-item div.details h2.product-title > a:nth-child(1)]
+2023-12-17 21:12:890 INFO  BuildYourOwnComputerPage :69 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'<br>
+2023-12-17 21:12:974 INFO  BuildYourOwnComputerPage :81 - Select HDD '320 GB'<br>
+2023-12-17 21:12:69 INFO  BuildYourOwnComputerPage :74 - Select RAM '2 GB'<br>
+2023-12-17 21:12:116 INFO  BuildYourOwnComputerPage :91 - Select HDD 'Vista Home [+$50.00]'<br>
+2023-12-17 21:12:164 INFO  BuildYourOwnComputerPage :101 - Select Software '[[ChromeDriver: chrome on windows (7e5feaf768dd889421723bae25a4ba08)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2023-12-17 21:12:202 INFO  BuildYourOwnComputerPage :109 - Click on 'ADD TO CART' Button<br>
+2023-12-17 21:12:876 INFO  BuildYourOwnComputerPage :114 - Get productAdded Message : The product has been added to your shopping cart<br>
+2023-12-17 21:12:417 INFO  ComputerPage :49 - Clicking on deskTop [[ChromeDriver: chrome on windows (e110afea00ddc157b38a22477fbc8b90)] -> xpath: //h2[@class='title']//a[text()=' Desktops ']]
+2023-12-17 21:12:814 INFO  BuildYourOwnComputerPage :58 - click buildComputer [[ChromeDriver: chrome on windows (e110afea00ddc157b38a22477fbc8b90)] -> css selector: div.master-wrapper-page:nth-child(7) div.master-wrapper-content div.master-column-wrapper div.center-2 div.page.category-page div.page-body div.products-container div.products-wrapper div.product-grid div.item-grid div.item-box:nth-child(1) div.product-item div.details h2.product-title > a:nth-child(1)]
+2023-12-17 21:12:898 INFO  BuildYourOwnComputerPage :69 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'<br>
+2023-12-17 21:12:978 INFO  BuildYourOwnComputerPage :81 - Select HDD '400 GB [+$100.00]'<br>
+2023-12-17 21:12:75 INFO  BuildYourOwnComputerPage :74 - Select RAM '4GB [+$20.00]'<br>
+2023-12-17 21:12:129 INFO  BuildYourOwnComputerPage :91 - Select HDD 'Vista Premium [+$60.00]'<br>
+2023-12-17 21:12:184 INFO  BuildYourOwnComputerPage :101 - Select Software '[[ChromeDriver: chrome on windows (e110afea00ddc157b38a22477fbc8b90)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2023-12-17 21:12:227 INFO  BuildYourOwnComputerPage :109 - Click on 'ADD TO CART' Button<br>
+2023-12-17 21:12:508 INFO  BuildYourOwnComputerPage :114 - Get productAdded Message : The product has been added to your shopping cart<br>
+2023-12-17 21:12:543 INFO  ComputerPage :49 - Clicking on deskTop [[ChromeDriver: chrome on windows (78a4ae4d170c465abd1485007ba75c98)] -> xpath: //h2[@class='title']//a[text()=' Desktops ']]
+2023-12-17 21:12:988 INFO  BuildYourOwnComputerPage :58 - click buildComputer [[ChromeDriver: chrome on windows (78a4ae4d170c465abd1485007ba75c98)] -> css selector: div.master-wrapper-page:nth-child(7) div.master-wrapper-content div.master-column-wrapper div.center-2 div.page.category-page div.page-body div.products-container div.products-wrapper div.product-grid div.item-grid div.item-box:nth-child(1) div.product-item div.details h2.product-title > a:nth-child(1)]
+2023-12-17 21:12:68 INFO  BuildYourOwnComputerPage :69 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'<br>
+2023-12-17 21:12:146 INFO  BuildYourOwnComputerPage :81 - Select HDD '320 GB'<br>
+2023-12-17 21:12:236 INFO  BuildYourOwnComputerPage :74 - Select RAM '8GB [+$60.00]'<br>
+2023-12-17 21:12:283 INFO  BuildYourOwnComputerPage :91 - Select HDD 'Vista Home [+$50.00]'<br>
+2023-12-17 21:12:346 INFO  BuildYourOwnComputerPage :101 - Select Software '[[ChromeDriver: chrome on windows (78a4ae4d170c465abd1485007ba75c98)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2023-12-17 21:12:386 INFO  BuildYourOwnComputerPage :109 - Click on 'ADD TO CART' Button<br>
+2023-12-17 21:12:625 INFO  BuildYourOwnComputerPage :114 - Get productAdded Message : The product has been added to your shopping cart<br>
